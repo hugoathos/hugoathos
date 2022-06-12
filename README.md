@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/hugoathos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoathos&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    
+ 
 # 📒Studyng:
 
 <div>
@@ -15,3 +15,5 @@
   <img align="right" alt="Hugo-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1535974990746722306/RsbdpjeK_400x400.jpg">
 </div>
   </div>
+  
+  
