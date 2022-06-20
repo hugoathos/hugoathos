@@ -1,4 +1,4 @@
-# 👾Hello world, i am programming student
+# 👾Hello world
 
 <div align="left">
   <a href="https://github.com/hugoathos">
